@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chemlekchieva.Lab_8_Ex.1", "Lab_8\Chemlekchieva.Lab_8_Ex.1.csproj", "{5EFB4B24-7E6D-493E-B890-2B27B1C9A778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chemlekchieva.Lab_8_Ex.2", "Chemlekchieva.Lab_8_Ex.2\Chemlekchieva.Lab_8_Ex.2.csproj", "{575DF1E3-0DCA-4BF3-92CA-50C9F8BB70CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFB4B24-7E6D-493E-B890-2B27B1C9A778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFB4B24-7E6D-493E-B890-2B27B1C9A778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFB4B24-7E6D-493E-B890-2B27B1C9A778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFB4B24-7E6D-493E-B890-2B27B1C9A778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575DF1E3-0DCA-4BF3-92CA-50C9F8BB70CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DF1E3-0DCA-4BF3-92CA-50C9F8BB70CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DF1E3-0DCA-4BF3-92CA-50C9F8BB70CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DF1E3-0DCA-4BF3-92CA-50C9F8BB70CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1143D94C-C7A2-4AD3-9648-598AFD40F7B0}
+	EndGlobalSection
+EndGlobal

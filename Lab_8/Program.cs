@@ -71,10 +71,10 @@ if (File.Exists(path))
     Console.WriteLine();
 
     StringBuilder sb = new StringBuilder();
-    foreach (var item in stat)
-    {
-        sb.AppendLine($"{item.Key} {item.Value}");
-    }
+    //foreach (var item in stat)
+    //{
+    //    sb.AppendLine($"{item.Key} {item.Value}");
+    //}
 
     StreamReader sr = new StreamReader("text.txt");
 
